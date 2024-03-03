@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Day1\bin\Debug\Opps_Day1.exe.config
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Day1\bin\Debug\Opps_Day1.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Day1\bin\Debug\Opps_Day1.pdb
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Day1\obj\Debug\Opps_Day1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Day1\obj\Debug\Opps_Day1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Day1\obj\Debug\Opps_Day1.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Day1\obj\Debug\Opps_Day1.pdb
