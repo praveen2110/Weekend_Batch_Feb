@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Inheritance\bin\Debug\Opps_Inheritance.exe.config
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Inheritance\bin\Debug\Opps_Inheritance.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Inheritance\bin\Debug\Opps_Inheritance.pdb
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Inheritance\obj\Debug\Opps_Inheritance.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Inheritance\obj\Debug\Opps_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Inheritance\obj\Debug\Opps_Inheritance.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Inheritance\obj\Debug\Opps_Inheritance.pdb
