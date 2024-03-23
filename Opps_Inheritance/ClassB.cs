@@ -8,13 +8,22 @@ namespace Opps_Inheritance
 {
     class ClassB : ClassA
     {
-       
+        public int c;
         
+        public ClassB() : base()
+        {
+            c = b;
+        }
+
+
+
+
         public int Diff()
-        {            
-            int diff = A - B;            
+        {
+            int diff = a - b + c;
+            Console.WriteLine(c);
             return diff;
         }
-        
+
     }
 }

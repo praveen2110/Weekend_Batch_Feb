@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Polymorphism\bin\Debug\Opps_Polymorphism.exe.config
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Polymorphism\bin\Debug\Opps_Polymorphism.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Polymorphism\bin\Debug\Opps_Polymorphism.pdb
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Polymorphism\obj\Debug\Opps_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Polymorphism\obj\Debug\Opps_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Polymorphism\obj\Debug\Opps_Polymorphism.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Opps_Polymorphism\obj\Debug\Opps_Polymorphism.pdb

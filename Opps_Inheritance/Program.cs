@@ -11,13 +11,14 @@ namespace Opps_Inheritance
         static void Main(string[] args)
         {
             ClassA objA = new ClassA();
-            ClassB objB = new ClassB();
+            ClassB ObjB = new ClassB();
 
-            objA.A = 20;
-            objA.B = 20;
+            //objA.A = 20;
+            //objA.B = 20;
 
-            Console.WriteLine(objB.sum());
-            Console.WriteLine(objB.Diff());
+            Console.WriteLine(objA.sum(30));
+            Console.WriteLine(ObjB.Diff());
+            //Console.WriteLine(objA.sum(30.123));
 
             Console.ReadKey();
             
