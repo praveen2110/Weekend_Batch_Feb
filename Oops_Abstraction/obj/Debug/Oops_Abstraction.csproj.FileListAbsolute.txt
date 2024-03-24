@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Oops_Abstraction\bin\Debug\Oops_Abstraction.exe.config
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Oops_Abstraction\bin\Debug\Oops_Abstraction.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Oops_Abstraction\bin\Debug\Oops_Abstraction.pdb
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Oops_Abstraction\obj\Debug\Oops_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Oops_Abstraction\obj\Debug\Oops_Abstraction.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\Oops_Abstraction\obj\Debug\Oops_Abstraction.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\OOPs_Interface_demo\bin\Debug\OOPs_Interface_demo.exe.config
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\OOPs_Interface_demo\bin\Debug\OOPs_Interface_demo.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\OOPs_Interface_demo\bin\Debug\OOPs_Interface_demo.pdb
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\OOPs_Interface_demo\obj\Debug\OOPs_Interface_demo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\OOPs_Interface_demo\obj\Debug\OOPs_Interface_demo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\OOPs_Interface_demo\obj\Debug\OOPs_Interface_demo.exe
+C:\Users\Lenovo\source\repos\Weekend_Batch_Feb\OOPs_Interface_demo\obj\Debug\OOPs_Interface_demo.pdb
