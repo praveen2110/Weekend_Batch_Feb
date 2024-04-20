@@ -1,0 +1,7 @@
+C:\Users\prave\source\repos\Advance_C#\Advance_C#\bin\Debug\Advance_C#.exe.config
+C:\Users\prave\source\repos\Advance_C#\Advance_C#\bin\Debug\Advance_C#.exe
+C:\Users\prave\source\repos\Advance_C#\Advance_C#\bin\Debug\Advance_C#.pdb
+C:\Users\prave\source\repos\Advance_C#\Advance_C#\obj\Debug\Advance_C#.csproj.AssemblyReference.cache
+C:\Users\prave\source\repos\Advance_C#\Advance_C#\obj\Debug\Advance_C#.csproj.CoreCompileInputs.cache
+C:\Users\prave\source\repos\Advance_C#\Advance_C#\obj\Debug\Advance_C#.exe
+C:\Users\prave\source\repos\Advance_C#\Advance_C#\obj\Debug\Advance_C#.pdb
