@@ -1,0 +1,7 @@
+C:\Users\prave\source\repos\Collections_C#_examples\Collections_C#_examples\bin\Debug\Collections_C#_examples.exe.config
+C:\Users\prave\source\repos\Collections_C#_examples\Collections_C#_examples\bin\Debug\Collections_C#_examples.exe
+C:\Users\prave\source\repos\Collections_C#_examples\Collections_C#_examples\bin\Debug\Collections_C#_examples.pdb
+C:\Users\prave\source\repos\Collections_C#_examples\Collections_C#_examples\obj\Debug\Collections_C#_examples.csproj.AssemblyReference.cache
+C:\Users\prave\source\repos\Collections_C#_examples\Collections_C#_examples\obj\Debug\Collections_C#_examples.csproj.CoreCompileInputs.cache
+C:\Users\prave\source\repos\Collections_C#_examples\Collections_C#_examples\obj\Debug\Collections_C#_examples.exe
+C:\Users\prave\source\repos\Collections_C#_examples\Collections_C#_examples\obj\Debug\Collections_C#_examples.pdb
